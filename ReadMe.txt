@@ -1,0 +1,1 @@
+Simple Rest App with Hibernate (Spring Boot default config)
